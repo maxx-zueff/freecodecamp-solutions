@@ -1,0 +1,11 @@
+{
+  "name": "codecamp-solutions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+     "server": "http-server ./ -a localhost -p 9000 -c-1"
+  },
+  "author": "Max Zuef",
+  "license": "ISC"
+}
